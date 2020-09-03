@@ -3,7 +3,7 @@
 API desenvolvida para gerir votações com os seguintes recursos:
 - Cadastro de associados, pautas e sessões;
 - Registro e contabilização de votos;
-- Relatórios de cadastros e doS resultadoS das votações.
+- Relatórios de cadastros e dos resultados das votações.
 
 A aplicação foi documentada através do Swagger.
 
@@ -14,7 +14,7 @@ A aplicação foi documentada através do Swagger.
 - Gradle
 - Swagger 2
 - Lombok
-- Heroku
+- Heroku (com add-on ClearDB MySQL)
 
 ## Executando a API
 - [Clique aqui](https://votacao-api.herokuapp.com/swagger-ui.html) para utilizar a API.
